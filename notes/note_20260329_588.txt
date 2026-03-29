@@ -1,0 +1,4 @@
+Dev Note - 2026-03-29T18:30:51.310Z
+========================================
+
+I've been exploring the world of algorithmic trading bots and I have to say it's pretty fascinating. Today I spent some time learning about the different types of trading strategies that can be implemented using these bots, such as mean reversion and momentum trading. I found it interesting to see how these strategies can be backtested using historical data to evaluate their performance. I'm planning to use this knowledge to build my own trading bot and test out some of these strategies in a simulated environment. I'm excited to see how it all works out and learn more about the world of algorithmic trading. It's definitely a complex topic, but I'm looking forward to diving deeper and learning more about it.
