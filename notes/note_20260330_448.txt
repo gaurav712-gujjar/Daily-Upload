@@ -1,0 +1,4 @@
+Dev Note - 2026-03-30T18:30:51.348Z
+========================================
+
+I've been diving into ML model deployment and I have to say it's been a real challenge, I'm trying to get my model to work seamlessly with my Flask app, but I'm running into issues with compatibility and scalability. I've been reading up on how to use Docker to containerize my model and make it more portable, which seems like a great solution. I'm also looking into using TensorFlow Serving to handle requests and make predictions, it seems like a powerful tool. I'm excited to see how this all comes together and I can finally deploy my model to a production environment. I'm learning a lot about the importance of monitoring and logging in a deployed model, it's not something I considered when I was just building the model itself. I'm looking forward to seeing my model in action and being able to make adjustments as needed.
