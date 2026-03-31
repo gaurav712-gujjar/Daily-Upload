@@ -1,0 +1,4 @@
+Dev Note - 2026-03-31T18:30:51.291Z
+========================================
+
+I've been diving into scikit-learn and I have to say it's been a game changer for my machine learning projects. Today I learned about the different types of cross validation techniques available in the library, including k-fold and stratified cross validation. I was able to implement k-fold cross validation on a project I've been working on and it's helped me to get a more accurate picture of my model's performance. I'm excited to keep exploring the library and see what other tools it has to offer. I've been using it in conjunction with pandas and numpy to build a robust data science pipeline. So far the results have been promising and I'm looking forward to deploying my models in the near future.
