@@ -1,0 +1,4 @@
+Dev Note - 2026-04-01T18:30:51.342Z
+========================================
+
+I've been learning about data science pipelines and how to create efficient workflows for my projects. Today I focused on understanding the importance of data preprocessing and feature engineering in building robust models. I realized that having a well-structured pipeline can save a lot of time and effort in the long run, and also makes it easier to reproduce results. I experimented with using Apache Airflow to manage my pipeline, and it seems to be a powerful tool for automating tasks. I'm excited to continue exploring different tools and techniques to improve my data science workflow. Overall, I feel like I'm making progress in creating a more streamlined and efficient process for my data science projects.
