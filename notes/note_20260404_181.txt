@@ -1,0 +1,4 @@
+Dev Note - 2026-04-04T18:30:51.303Z
+========================================
+
+I've been exploring data science pipelines and I have to say it's been a game changer for my workflow, I can now easily manage and deploy my projects in a reproducible manner. I've been using Apache Airflow to schedule my tasks and it's been working out great, the UI is user friendly and the documentation is excellent. I've also been learning about the different types of tasks I can run, from simple python scripts to complex machine learning models. One thing I'm still figuring out is how to handle dependencies between tasks, but overall I'm excited to see how this will improve my productivity. I'm planning to use this to automate my daily data updates and reduce the manual work I have to do. This will free up more time for me to focus on the actual analysis and insights.
