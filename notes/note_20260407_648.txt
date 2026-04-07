@@ -1,0 +1,4 @@
+Dev Note - 2026-04-07T18:30:51.148Z
+========================================
+
+I spent the day learning about ML model deployment and it's definitely more complex than I thought. I've been working on a project where I need to deploy a model to a production environment and I realized that just training a model isn't enough. I need to consider things like model serving, monitoring, and updating, which requires a lot of infrastructure setup. I've been looking into using TensorFlow Serving and Docker to make the deployment process smoother. I'm still figuring out the details, but it's been a great learning experience so far. I'm excited to finally get my model deployed and see it in action.
