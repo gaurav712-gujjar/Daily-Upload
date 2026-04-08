@@ -1,0 +1,4 @@
+Dev Note - 2026-04-08T18:30:51.455Z
+========================================
+
+I've been diving into ML model deployment and I have to say it's been a challenge, but I'm learning a lot. Today I figured out how to use Docker to containerize my model, which makes it way easier to deploy and manage. I'm using a Python library to handle the deployment, and it's been really helpful in streamlining the process. I'm excited to get my model up and running in a production environment, where I can start getting real-world feedback and iterating on it. I'm also looking into using a cloud platform to host my model, which will make it easier to scale and manage traffic. Overall, I'm feeling more confident in my ability to deploy models and I'm looking forward to continuing to learn and improve.
