@@ -1,0 +1,4 @@
+Dev Note - 2026-04-10T18:30:51.270Z
+========================================
+
+I've been exploring data science pipelines and I have to say it's been a game changer for my workflow. I used to spend so much time manually cleaning and processing data, but now I can automate most of that with a few lines of code. I've been using Python to build my pipeline and it's been really easy to integrate with other tools like scikit-learn and pandas. I've also been learning about how to use containerization to deploy my pipeline, which should make it way easier to share with others. So far I've seen a huge improvement in my productivity and I'm excited to see how this will impact my future projects. I'm planning to keep learning more about data science pipelines and how I can use them to streamline my workflow even further.
