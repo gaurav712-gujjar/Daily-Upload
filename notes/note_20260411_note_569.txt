@@ -1,0 +1,4 @@
+Dev Note - 2026-04-11T17:34:10.982Z
+========================================
+
+Today I learned about scikit-learn pipelines and how they can simplify the process of building and evaluating machine learning models. I was experimenting with a project that involved multiple preprocessing steps and different algorithms, and I found that using a pipeline helped to streamline the code and reduce the chance of errors. By chaining together different transformers and estimators, I was able to create a workflow that was easy to understand and modify. I was also surprised by how much more efficient the pipeline was compared to my previous approach, which involved manual transformation and modeling steps. I'm excited to apply this new knowledge to future projects and see how it can improve my workflow. One thing I'm still curious about is how to best handle hyperparameter tuning within a pipeline, so that's something I'll be exploring next.
